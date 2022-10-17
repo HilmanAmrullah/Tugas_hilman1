@@ -10,3 +10,5 @@
 ![gambar 1](screenshot/ss1.png) <br>
 4. kita akan inisialisasi folder git dengan cara git init <br>
 ![gambar 2](screenshot/ss2.png) <br>
+5. kita menambahkan file baru pada repository kita dengan cara $echo "#latihan buat repository" >> README.md dan file README.md telah berhasil kita buat <br>
+![gambar 3](screenshot/ss3.png)
